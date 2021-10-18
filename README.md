@@ -6,6 +6,7 @@
 - 📚 I'm working on the AWS Solutions Architect Certificate
 - 👯 I’m looking to collaborate on more React.js projects 
 - 💬 Ask me anything about react or python, I may not know the answer but I can google it :)
+- 💡 I love maths but just like you, I forget it if I don't practice
 - ⚡ Fun fact: I am a competitive powerlifter 🏋️
 
 ### Connect with me: 
