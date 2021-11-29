@@ -33,5 +33,3 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
      
 [linkedin]: https://linkedin.com/in/berto-m/
-[youtube]: https://www.youtube.com/playlist?list=PL1B6CFl-aMLNAyaOkIyVrcOsRYxTXGYO6
-[instagram]: https://www.instagram.com/albert.medina.v/
