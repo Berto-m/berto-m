@@ -1,4 +1,4 @@
-## Hi there, I'm Adalberto but you can call me Berto 👋
+## Hi there, I'm Alberto 👋
 
 ### I'm a Computer Science graduate!!
 
