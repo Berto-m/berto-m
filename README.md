@@ -2,7 +2,7 @@
 
 ### I'm a Computer Science graduate!!
 
-- 🌱 I’m currently learning the MERN stack and I'm also enrolled on a self paced DevOps Bootcamp by TechWorld with Nana. Basically I'm learning everything 🤣
+- 🌱 I’m currently learning the MERN stack and I'm also enrolled on a self paced DevOps Bootcamp. Basically I'm learning everything 🤣
 - 📚 I'm working on the AWS Solutions Architect Certificate
 - 👯 I’m looking to collaborate on more React.js projects 
 - 💬 Ask me anything about react or python, I may not know the answer but I can google it :)
